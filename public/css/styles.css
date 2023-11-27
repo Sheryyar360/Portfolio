@@ -1,0 +1,82 @@
+
+#sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    transition: all ease-in-out 0.5s;
+    z-index: 9997;
+    transition: all 0.5s;
+    padding: 0 15px;
+    background: #040b14;
+    color: whitesmoke;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
+
+#profileimg {
+    margin: 15px auto;
+    display: block;
+    width: 150px;
+    border: 8px solid grey;
+    border-radius: 50%;
+}
+
+#socialmedia { 
+    justify-content: space-evenly;
+}
+
+#socialmedia a {
+    background-color: whitesmoke;
+}
+
+#socialmedia a:hover {
+    background-color: gray;
+}
+
+#nav a {
+    color: gray;
+}
+
+#nav a:hover{
+    color: whitesmoke;
+}
+
+#nav a:active{
+    color: black;
+    background-color: whitesmoke;
+
+}
+
+#main {
+    margin-left: 300px;
+    overflow: hidden;
+}
+
+
+#home {
+    background-image: url("../images/developerimg.jpeg");
+    background-size: cover;
+    position: relative;
+    height: 100vh;
+    width: 100%;
+
+  }
+
+#fadein h2{
+    position: absolute;
+    margin: 200px;
+    color: whitesmoke;
+}
+
+#about {
+    padding: 50px;
+}
+
+#about img{
+    height: 300px;
+    width: 250px;
+    padding-right: 20px;
+}
