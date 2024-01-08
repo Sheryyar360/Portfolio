@@ -70,7 +70,7 @@ html {
 }
 
 #home {
-  background-image: url("../images/developerimg.jpeg");
+  background-image: url("./images/developerimg.jpeg");
   background-size: cover;
   height: 100vh;
   width: 100%;
