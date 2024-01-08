@@ -11,7 +11,7 @@ html {
   width: 50px;
   border-radius: 20%;
   background-color: lightgrey;
-  background-image: url("../images/menuicon.png");
+  background-image: url("./images/menuicon.png");
   background-size: cover;
   position: fixed;
   top: 10%;
