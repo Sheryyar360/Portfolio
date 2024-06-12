@@ -84,9 +84,9 @@ html {
 }
 
 #helloworld {
-  position: relative;
-  top: 550px;
-  left: 450px;
+  position: sticky;
+  top: 500px;
+  left: 500px;
   font-family: "Merienda", cursive;
   color: #00a8d1;
   font-size: x-large;
